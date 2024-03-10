@@ -1,0 +1,119 @@
+html{
+    background-image: linear-gradient(to left, #c2f5bc9e, #bdbdbd8e);
+}
+body{
+    background-color: white;
+    max-width: 850px;
+    height: 1000px;
+    margin: auto;
+    border-radius: 10px ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.465);
+    position: relative;
+}
+div#nome{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 20px;
+    margin: auto;
+    border-radius: 10px;
+    text-shadow: 2px 2px 5px rgba(157, 249, 149, 0.578);
+}
+ul{
+    margin-bottom: 25px;
+    margin-left: 25px;
+}
+div > p{
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1#nomee{
+    width: auto;
+    margin-left: 250px;
+    padding-top: 50px;
+}
+div > h2{
+    font-size: 1.25em;
+    margin-top: 235px;
+    margin-left: 15px;
+}
+p.dadosPessoais{
+    font-size: 0.9em;
+    margin-left: 25px;
+}
+p.dadosPessoaisTexto{
+    text-align: left;
+    font-size: 0.9em;
+    margin-left: 25px;
+    text-indent: 25px;
+    max-width: 550px;
+}
+h3{
+    margin-left: 5px;
+}
+div#dados > p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+}
+div#dados{
+    background-color: #bdbdbd8e;
+    width: 200px;
+    height: 96%;
+    margin-left: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #00000054;
+    position: absolute;
+}
+div#informacao{
+    position: absolute;
+    margin: 0;
+    margin-top: 110px;
+    margin-left: 230px;
+    
+}
+h2.info{
+    margin: 10px;
+    background-color: #bdbdbd8e;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px #00000077;
+}
+h3.area{
+    font-size: 1em;
+}
+h3.prof{
+    font-size: 0.95em;
+    margin-left: 25px;
+}
+#imagem{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    position: relative;
+    margin-top: 25px;
+    margin-left: 30px;
+    
+}
+img{
+    box-shadow: 2px 2px 4px #0000007d;
+}
+a{
+    text-decoration: none;
+    text-shadow: 2px 2px 4px white;
+    color: black;
+}
+a:hover{
+    font-size: 1.2em;
+}
+img:hover{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin-top: -25px;
+    margin-left: -70px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 1000px black;
+
+}
